@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/React_Kakao_App/static/css/main.58116a4c.css",
-    "main.js": "/React_Kakao_App/static/js/main.bf6077d7.js",
-    "static/media/kakaofriends.png": "/React_Kakao_App/static/media/kakaofriends.84375bb9f89d79ccd760.png",
-    "static/media/path.png": "/React_Kakao_App/static/media/path.7d00edf73f07bdcecc6d.png",
-    "static/media/kakaostory.png": "/React_Kakao_App/static/media/kakaostory.572f3ce5bf10fbdaac9d.png",
-    "static/media/bg_default.png": "/React_Kakao_App/static/media/bg_default.82687b4e75ad8b89fa96.png",
-    "index.html": "/React_Kakao_App/index.html",
-    "main.58116a4c.css.map": "/React_Kakao_App/static/css/main.58116a4c.css.map",
-    "main.bf6077d7.js.map": "/React_Kakao_App/static/js/main.bf6077d7.js.map"
+    "main.css": "/React_Kakao_App_Login_Firebase/static/css/main.5bec0dc7.css",
+    "main.js": "/React_Kakao_App_Login_Firebase/static/js/main.ef5ee703.js",
+    "static/media/kakaofriends.png": "/React_Kakao_App_Login_Firebase/static/media/kakaofriends.84375bb9f89d79ccd760.png",
+    "static/media/kakaolgo.png": "/React_Kakao_App_Login_Firebase/static/media/kakaolgo.0638637bf6144c4f0e55.png",
+    "static/media/path.png": "/React_Kakao_App_Login_Firebase/static/media/path.7d00edf73f07bdcecc6d.png",
+    "static/media/kakaostory.png": "/React_Kakao_App_Login_Firebase/static/media/kakaostory.572f3ce5bf10fbdaac9d.png",
+    "static/media/jpg": "/React_Kakao_App_Login_Firebase/static/media/6f99b9b8bd0f8324669ec9d0d66af57e.cc87be66c4c7b5731b71.jpg",
+    "index.html": "/React_Kakao_App_Login_Firebase/index.html",
+    "main.5bec0dc7.css.map": "/React_Kakao_App_Login_Firebase/static/css/main.5bec0dc7.css.map",
+    "main.ef5ee703.js.map": "/React_Kakao_App_Login_Firebase/static/js/main.ef5ee703.js.map"
   },
   "entrypoints": [
-    "static/css/main.58116a4c.css",
-    "static/js/main.bf6077d7.js"
+    "static/css/main.5bec0dc7.css",
+    "static/js/main.ef5ee703.js"
   ]
 }
