@@ -31,17 +31,17 @@ function AppRouter({isLoggedIn,userObj }) {
   return (
     <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>       
-        {isLoggedIn ? (
-          <>
-      <Route path='/' element={<Index userObj={userObj} users={users} texts={texts}/>}/>
-     <Route path="/Chats" element={<Chats userObj={userObj} users={users} texts={texts}/>}/>
-     <Route path="/Chatting" element={<Chatting userObj={userObj}/>}/>
-     <Route path="/Find" element={<Find/>}/>
-     <Route path="/More" element={<More userObj={userObj} users={users} texts={texts}/>}/>
-     <Route path="/Profile" element={<Profile userObj={userObj} users={users} texts={texts}/>}/>
-     </>
-        ) : (
-        <Route path='/' element={<Auth/>}/>
+           {isLoggedIn ? (
+             <>
+             <Route path='/' element={<Index userObj={userObj} users={users} texts={texts}/>}/>
+             <Route path="/Chats" element={<Chats userObj={userObj} users={users} texts={texts}/>}/>
+             <Route path="/Chatting" element={<Chatting userObj={userObj}/>}/>
+             <Route path="/Find" element={<Find/>}/>
+             <Route path="/More" element={<More userObj={userObj} users={users} texts={texts}/>}/>
+             <Route path="/Profile" element={<Profile userObj={userObj} users={users} texts={texts}/>}/>
+            </>
+             ) : (
+            <Route path='/' element={<Auth/>}/>
         )}
       </Routes>
     </BrowserRouter>

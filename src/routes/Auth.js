@@ -32,6 +32,7 @@ function Auth() {
               data = await createUserWithEmailAndPassword(authService, email, password)
           }else{
               //login
+              // eslint-disable-next-line no-unused-vars
               data = await signInWithEmailAndPassword(authService, email, password)
           }
           //console.log(data);//회원가입을 마친 사용자 정보
