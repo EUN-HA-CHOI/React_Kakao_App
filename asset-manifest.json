@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/EUN-HA-CHOI/React_Kakao_App.git/static/css/main.aa9174e3.css",
-    "main.js": "/EUN-HA-CHOI/React_Kakao_App.git/static/js/main.30e4a0a8.js",
-    "static/media/kakaofriends.png": "/EUN-HA-CHOI/React_Kakao_App.git/static/media/kakaofriends.84375bb9f89d79ccd760.png",
-    "static/media/kakaolgo.png": "/EUN-HA-CHOI/React_Kakao_App.git/static/media/kakaolgo.0638637bf6144c4f0e55.png",
-    "static/media/path.png": "/EUN-HA-CHOI/React_Kakao_App.git/static/media/path.7d00edf73f07bdcecc6d.png",
-    "static/media/kakaostory.png": "/EUN-HA-CHOI/React_Kakao_App.git/static/media/kakaostory.572f3ce5bf10fbdaac9d.png",
-    "static/media/jpg": "/EUN-HA-CHOI/React_Kakao_App.git/static/media/6f99b9b8bd0f8324669ec9d0d66af57e.cc87be66c4c7b5731b71.jpg",
-    "index.html": "/EUN-HA-CHOI/React_Kakao_App.git/index.html",
-    "main.aa9174e3.css.map": "/EUN-HA-CHOI/React_Kakao_App.git/static/css/main.aa9174e3.css.map",
-    "main.30e4a0a8.js.map": "/EUN-HA-CHOI/React_Kakao_App.git/static/js/main.30e4a0a8.js.map"
+    "main.css": "/React_Netflix_App/static/css/main.502be43b.css",
+    "main.js": "/React_Netflix_App/static/js/main.4d466095.js",
+    "static/media/kakaofriends.png": "/React_Netflix_App/static/media/kakaofriends.84375bb9f89d79ccd760.png",
+    "static/media/kakaolgo.png": "/React_Netflix_App/static/media/kakaolgo.0638637bf6144c4f0e55.png",
+    "static/media/path.png": "/React_Netflix_App/static/media/path.7d00edf73f07bdcecc6d.png",
+    "static/media/kakaostory.png": "/React_Netflix_App/static/media/kakaostory.572f3ce5bf10fbdaac9d.png",
+    "static/media/jpg": "/React_Netflix_App/static/media/6f99b9b8bd0f8324669ec9d0d66af57e.cc87be66c4c7b5731b71.jpg",
+    "index.html": "/React_Netflix_App/index.html",
+    "main.502be43b.css.map": "/React_Netflix_App/static/css/main.502be43b.css.map",
+    "main.4d466095.js.map": "/React_Netflix_App/static/js/main.4d466095.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa9174e3.css",
-    "static/js/main.30e4a0a8.js"
+    "static/css/main.502be43b.css",
+    "static/js/main.4d466095.js"
   ]
 }
